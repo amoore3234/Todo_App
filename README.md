@@ -1,3 +1,6 @@
+# Todo App
+An app where users can list a variety of tasks and store the list in json files using MongoDB. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
